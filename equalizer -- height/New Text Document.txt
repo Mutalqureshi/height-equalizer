@@ -1,0 +1,12 @@
+  $('.class').matchHeight();
+
+
+---------------------------2nd  
+
+$('.class').equalHeights();
+
+Mutal Qureshi 8:51 PM
+$(document).ready(function(){
+       $('.wel-con > div').matchHeight();
+       $('.wel-con > h4').matchHeight();
+     });
